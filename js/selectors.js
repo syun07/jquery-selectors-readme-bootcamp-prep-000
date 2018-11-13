@@ -1,2 +1,5 @@
 // declare your functions here...
-$('img')
+function paragraphSelector() {
+  $('p');
+  return p;
+}
